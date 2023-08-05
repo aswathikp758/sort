@@ -5,13 +5,23 @@
         "editfunc",
         "imgdata",
         "inputdata",
+        "multerconfig",
+        "newold",
         "optios",
         "Paginations",
+        "registerfunc",
         "showspin",
+        "singleuserget",
         "Spiner",
         "statuschangefunc",
         "toastify",
         "userdata",
-        "Usergetfunc"
+        "userdelete",
+        "useredit",
+        "userexport",
+        "userget",
+        "Usergetfunc",
+        "userpost",
+        "userstatus"
     ]
 }
